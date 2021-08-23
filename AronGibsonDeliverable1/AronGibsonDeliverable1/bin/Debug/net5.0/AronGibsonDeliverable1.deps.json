@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AronGibsonDeliverable1/1.0.0": {
+        "runtime": {
+          "AronGibsonDeliverable1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AronGibsonDeliverable1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

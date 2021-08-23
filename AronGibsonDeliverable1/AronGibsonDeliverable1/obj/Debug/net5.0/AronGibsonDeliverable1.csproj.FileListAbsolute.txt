@@ -1,0 +1,16 @@
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\obj\Debug\net5.0\AronGibsonDeliverable1.csproj.AssemblyReference.cache
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\obj\Debug\net5.0\AronGibsonDeliverable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\obj\Debug\net5.0\AronGibsonDeliverable1.AssemblyInfoInputs.cache
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\obj\Debug\net5.0\AronGibsonDeliverable1.AssemblyInfo.cs
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\obj\Debug\net5.0\AronGibsonDeliverable1.csproj.CoreCompileInputs.cache
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\bin\Debug\net5.0\AronGibsonDeliverable1.exe
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\bin\Debug\net5.0\AronGibsonDeliverable1.deps.json
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\bin\Debug\net5.0\AronGibsonDeliverable1.runtimeconfig.json
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\bin\Debug\net5.0\AronGibsonDeliverable1.runtimeconfig.dev.json
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\bin\Debug\net5.0\AronGibsonDeliverable1.dll
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\bin\Debug\net5.0\ref\AronGibsonDeliverable1.dll
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\bin\Debug\net5.0\AronGibsonDeliverable1.pdb
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\obj\Debug\net5.0\AronGibsonDeliverable1.dll
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\obj\Debug\net5.0\ref\AronGibsonDeliverable1.dll
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\obj\Debug\net5.0\AronGibsonDeliverable1.pdb
+C:\Users\aron\source\repos\AronGibsonDeliverable1\AronGibsonDeliverable1\obj\Debug\net5.0\AronGibsonDeliverable1.genruntimeconfig.cache
